@@ -13,5 +13,6 @@ public class GitTest {
 
         System.out.println("all finished!!!");
         System.out.println("eee");
+        System.out.println("hot fix2--修改bug");
     }
 }
