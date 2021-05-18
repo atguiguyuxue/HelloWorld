@@ -12,5 +12,6 @@ public class GitTest {
 
 
         System.out.println("all finished!!!");
+        System.out.println("eee");
     }
 }
